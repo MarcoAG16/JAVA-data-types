@@ -63,10 +63,10 @@ public class DatosPrimitivos {
 		
 		double ISR = 1239.45d;
 		System.out.println(ISR);
-		
+		/*
 		int edad = 24;
 		System.out.println(edad);
-		
+		*/
 		char valorChar1 = 'a';
 		char valorChar2 = '3';
 		System.out.println(valorChar1);
@@ -108,7 +108,7 @@ public class DatosPrimitivos {
 		int myNewFloat = (int) myFloat;
 		System.out.println(myNewFloat);
 		// convertir de chat a int
-		char myChat = 'M';
+		char myChar = 'M';
 		int myNewChar = myChar;
 		System.out.println(myNewChar);
 
